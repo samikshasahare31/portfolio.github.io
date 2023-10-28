@@ -1,0 +1,50 @@
+.TapHeader{
+    width: 90%;
+    margin: 5px;
+    border: 3px solid;
+    height: 10%;
+    padding: 3%;
+    display: flex;
+}
+.mail{
+    width: 18%;
+    display: inline-flex;
+
+}
+ .inst {
+    width: 18%;
+    display: inline-flex;
+
+}.youtube{
+    width: 18%;
+    display: inline-flex;
+
+}
+.call{
+    width: 18%;
+    margin-right: 26%;
+    display: inline-flex;
+}
+.tap{
+    width: 15%;
+}
+.TapBody{
+    display: inline-flex;
+    justify-content: space-between;
+}
+u{
+    /* margin-left: 3%; */
+    margin-top: 7%;
+    cursor: pointer;
+}
+.gam{
+    font-size: 46px;
+}
+.tam{
+margin-top: 40px;
+}
+p{
+    display: inline-flex;  
+
+}
+
